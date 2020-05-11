@@ -4,7 +4,7 @@
     <title>Portfolio | Thibaut Hermant</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
@@ -23,6 +23,8 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.1/build/pure-min.css" integrity="sha384-nr8Zg0FGuy2mHjSDEtlFTk1UAYPogC1fcXsXwpshTY+BexlZFHQ99ruU/jL77qd7" crossorigin="anonymous">
+	<link rel="stylesheet" href="css/bulma.min.css">
+
 
 </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
@@ -925,6 +927,7 @@
   <script src="js/scrollax.min.js"></script>
   
   <script src="js/main.js"></script>
+  <script src="js/custom.js"></script>
     
   </body>
 </html>
