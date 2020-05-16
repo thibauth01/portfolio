@@ -20,10 +20,11 @@
     
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
+	<link rel="stylesheet" href="css/bulma.min.css">
+
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.1/build/pure-min.css" integrity="sha384-nr8Zg0FGuy2mHjSDEtlFTk1UAYPogC1fcXsXwpshTY+BexlZFHQ99ruU/jL77qd7" crossorigin="anonymous">
-	<link rel="stylesheet" href="css/bulma.min.css">
 
 
 </head>
@@ -55,14 +56,14 @@
           <div class="col-lg-8 col-md-6 ftco-animate d-flex align-items-center">
           	<div class="text text-center">
           		<span class="subheading">Je m'appelle</span>
-		  				<h1>Thibaut Hermant</h1>
-			  				<h2>Je suis 
-								  <span
-								     class="txt-rotate"
-								     data-period="2000"
-								     data-rotate='[ "etudiant.", "entrepeneur.", "passionné.","développeur."]'></span>
-								</h2>
-							</div>
+					<h1>Thibaut Hermant</h1>
+					<h2>Je suis 
+							<span
+								class="txt-rotate"
+								data-period="2000"
+								data-rotate='[ "etudiant.", "entrepeneur.", "passionné.","développeur."]'></span>
+						</h2>
+			</div>
             </div>
           </div>
         </div>
@@ -95,8 +96,8 @@
 		            	<li class="d-flex"><span>Date de naissance:</span> <span>12 Septembre 1999</span></li>
 		            	<li class="d-flex"><span>Addresse:</span> <span>Froidchapelle, Belgique</span></li>
 		            	<li class="d-flex"><span>Code postal:</span> <span>6440</span></li>
-		            	<li class="d-flex"><span>Email:</span> <span>thibaut@wecodx.com</span></li>
-		            	<li class="d-flex"><span>Téléphone: </span> <span>0492/86 95 16</span></li>
+		            	<li class="d-flex"><span>Email:</span> <span><a href="mailto:thibaut@wecodx.com">thibaut@wecodx.com</a></span></li>
+		            	<li class="d-flex"><span>Téléphone: </span> <span><a href="tel:+32492869516">+32 492 86 95 16</a></span></li>
 		            </ul>
 		          </div>
 		        </div>
@@ -106,7 +107,7 @@
 						<span class="number" data-number="120">0</span>
 						<span>Project complete</span>
 					</p> -->
-					<p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p>
+					<p><a href="./images/CV-Thibaut-Hermant.pdf" download="CV-Thibaut-Hermant.pdf" class="btn btn-primary py-3 px-3">Download CV</a></p>
 				</div>
 	          </div>
 	        </div>
